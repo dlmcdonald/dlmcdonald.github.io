@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustin Dev Blog</title>
+    <link>https://dlmcdonald.github.io/</link>
+    <description>Recent content on Dustin Dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Aug 2021 11:56:57 +0200</lastBuildDate><atom:link href="https://dlmcdonald.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dlmcdonald.github.io/about/</link>
+      <pubDate>Tue, 31 Aug 2021 12:03:25 +0200</pubDate>
+      
+      <guid>https://dlmcdonald.github.io/about/</guid>
+      <description>About me About section goes here</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://dlmcdonald.github.io/posts/testpost/</link>
+      <pubDate>Tue, 31 Aug 2021 11:56:57 +0200</pubDate>
+      
+      <guid>https://dlmcdonald.github.io/posts/testpost/</guid>
+      <description>Test Post This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
